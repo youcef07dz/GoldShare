@@ -62,6 +62,15 @@ Two flavors are shipped:
 
 ---
 
+## Screenshots
+
+| | |
+| --- | --- |
+| ![Main window — themed GUI with QR code](screenshot/Capture1.PNG) | ![Guest web UI](screenshot/Capture2.PNG) |
+| Main window — themed GUI with live QR code | Guest web UI served to phones & browsers |
+
+---
+
 ## Quick start
 
 ### 1. Get a build
